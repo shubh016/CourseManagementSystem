@@ -1,0 +1,2 @@
+# CourseManagementSystem
+A fully functional backend Infrastructure using Java, Spring, Spring Boot and MySql for Course Registration. Added various features common to both like Student and Course registration, added all CRUD APIs. Additionally added the APIs to register/unregister a student to a course, APIs to get all courses registered by Student, and APIs to get all students registered to a course.
